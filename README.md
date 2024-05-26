@@ -17,6 +17,5 @@ Instalam ambele aplicatii cu setarile standard
 *In terminal adaugam comanda ‘git clone’, urmat de link ul https://github.com/DGabriel20/Proiect.git care trebuie copiat cu mouse-ul
 *Proiectul se va clona , deschidem PyCharm, ne ducem in file Open si alegem folder-ul in care am clonat proiectul
 *Pentru a putea rula trebuie mai intai sa ne asiguram ca avem Django instalat si updatat la zi folosind comada ‘pip install django’ in terminal
-![image](https://github.com/DGabriel20/Proiect/assets/143016817/774a0a34-4081-4894-9863-3179831503ec)
 
 
